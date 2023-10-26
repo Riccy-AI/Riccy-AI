@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on learn together
-- 📫 How to reach me instagram : riccywidjhaya
+- 📫 How to reach me instagram : yourmanriccy
 
 <!---
 YOURMANRICCY/YOURMANRICCY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm an AI enthusiast and a passionate developer wh
 - 💞️ I’m looking to collaborate on learn together
 - 🌱 I’m always learning and currently focused on natural language processing and deep learning.
 - 📫 How to reach me: [riccywidjhaya00.com](mailto:riccywidjhaya00@gmail.com)
-- ⚡ Fun fact: I enjoy reading sci-fi novels and hiking in my free time.
+- ⚡ Fun fact: I enjoy listen to music and learn .
 
 ## 🛠️ Languages and Tools
 

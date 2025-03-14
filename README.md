@@ -28,12 +28,3 @@ Welcome to my GitHub profile! I'm an AI enthusiast and a passionate developer wh
 ## 📫 Connect with Me
 
 - LinkedIn: [Riccy Widjhaya](https://www.linkedin.com/in/riccywidjhaya/)
-
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-⭐️ From [Riccy-AI](https://github.com/Riccy-AI)

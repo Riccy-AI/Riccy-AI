@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Riccy!
 
-Welcome to my GitHub profile! I'm an AI enthusiast and a passionate developer who loves to explore new technologies and build innovative projects. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build innovative projects. Here's a little bit about me:
 
 ## 🚀 About Me
 

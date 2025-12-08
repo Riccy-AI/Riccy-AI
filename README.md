@@ -1,30 +1,50 @@
-# 👋 Hi there, I'm Riccy!
+# 👋 Hello there, I'm Riccy Widjhaya!
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build innovative projects. Here's a little bit about me:
+### Software Engineering Student | Aspiring Android Developer | Music Enthusiast
+
+---
 
 ## 🚀 About Me
 
-- 👋 Hi, I’m Riccy !!!
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on learn together
-- 🌱 I’m always learning and currently focused on natural language processing and deep learning.
-- 📫 How to reach me: [riccywidjhaya00.com](mailto:riccywidjhaya00@gmail.com)
-- ⚡ Fun fact: I enjoy listen to music and learn .
+I'm a passionate **Information Systems** student at **Universitas Bina Sarana Informatika (UBSI)**, currently dedicating my time to mastering **Software Engineering** principles. My primary focus right now is leveling up as an **Android Developer** using modern tools and frameworks.
 
-## 🛠️ Languages and Tools
+I love transforming conceptual ideas into functional, clean, and efficient code.
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+* 🌱 **Current Focus:** Android Development, Clean Architecture, and efficient state management in mobile apps.
+* 🎧 **Fun Fact:** I'm a big music enthusiast, always coding with a soundtrack!
+* 🤝 **Looking to Collaborate:** Always open to contributing to interesting projects, especially those involving Flutter, Laravel, or Kotlin!
 
-## 📈 GitHub Stats
+## 🛠️ My Skillset & Toolkit
 
-![Riccy-AI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riccy-AI&show_icons=true&theme=radical)
+I have experience with a wide range of languages and frameworks, constantly seeking opportunities to apply and expand these skills:
+
+| Category | Languages | Frameworks & Tools |
+| :--- | :--- | :--- |
+| **Mobile** | Dart, Kotlin | Flutter, Android Studio |
+| **Web Backend** | PHP, Python | Laravel, CodeIgniter 4 (CI4), CodeIgniter 3 (CI3) |
+| **Web Frontend** | HTML, CSS, JavaScript | (Vanilla JS) |
+
+### Languages I've Worked With:
+
+[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev/)
+[![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### Key Frameworks & Technologies:
+
+[![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
+[![CodeIgniter Badge](https://img.shields.io/badge/CodeIgniter-EE4C27?style=flat&logo=codeigniter&logoColor=white)](https://codeigniter.com/)
+
+
+
+---
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Riccy Widjhaya](https://www.linkedin.com/in/riccywidjhaya/)
+* **LinkedIn:** [Riccy Widjhaya](https://www.linkedin.com/in/riccywidjhaya/)
+* **Email:** riccywidjhaya00@gmail.com

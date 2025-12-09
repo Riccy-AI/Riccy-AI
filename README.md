@@ -1,8 +1,11 @@
 # 👋 Hello there, I'm Riccy Widjhaya!
 
-### Software Engineering Student | Aspiring Android Developer | Music Enthusiast
+### Information System Student | Aspiring Android Developer
 
 ---
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riccywidjhaya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riccywidjhaya) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@riccywidjhaya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riccywidjhaya00@gmail.com) 
 
 ## 🚀 About Me
 
@@ -44,7 +47,8 @@ I have experience with a wide range of languages and frameworks, constantly seek
 
 ---
 
-## 📫 Connect with Me
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=riccy-ai&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=riccy-ai&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=riccy-ai&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-* **LinkedIn:** [Riccy Widjhaya](https://www.linkedin.com/in/riccywidjhaya/)
-* **Email:** riccywidjhaya00@gmail.com
